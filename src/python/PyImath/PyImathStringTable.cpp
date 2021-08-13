@@ -8,7 +8,7 @@
 #include <limits>
 #include "PyImathExport.h"
 #include "PyImathStringTable.h"
-
+#include <stdexcept>
 namespace PyImath {
 
 template<class T>
